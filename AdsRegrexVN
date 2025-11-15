@@ -26,9 +26,9 @@
   },
   "updateInfo": {
     "latestVersionCode": 4,
-    "latestVersionName": "2.1",
+    "latestVersionName": "1.1",
     "updateUrl": "https://t.me/testerbrick",
-    "releaseNotes": "• New features added from JSON!\\n• Performance improvements.\\n• Bug fixes and stability enhancements.",
+    "releaseNotes": "• Cập nhật thêm tính năng mới từ máy chủ chính!\\n• Cải thiện hiệu suất ứng dụng.\\n• Sửa lỗi và tăng tính ổn định khi sử dụng.",
     "howToUpdateUrl": "https://youtube.com/your-tutorial-video"
   },
   "socialLinks": [
